@@ -4,11 +4,9 @@ Welcome to Portfolionaire, a web application designed to help you manage and sho
 
 ## Table of Contents
 - [Introduction](#introduction)
-- [Features](#features)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -31,24 +29,26 @@ To get started with Portfolionaire, follow these steps:
 
 ## Usage
 
-1. **Create an Account**: Sign up for a Portfolionaire account.
+1. **Home Page**: In this page, I have a paragraph that floats in and gives an idea about the website
+   ![Screenshot 2023-12-07 at 3 15 16 PM](https://github.com/AbhayARao26/Portfolionaire/assets/125880738/d077d7de-fe16-47f6-969a-c225501abbe4)
 
-2. **Set Up Profile**: Customize your profile by adding a bio, profile picture, and other relevant information.
+   
+2. **Profiles Page**: In this page, you can view all the people of the class who's data exists in the database. If the student has submitted an image, then that is displayed or else, a default image is displayed.
+   ![Screenshot 2023-12-07 at 3 20 31 PM](https://github.com/AbhayARao26/Portfolionaire/assets/125880738/52263d5c-7d32-4e45-bbcd-98237c2dbfbf)
 
-3. **Add Projects**: Populate your portfolio by adding projects. Include project details, images, and links.
+   
+   On searching for a name in the searchbar, only those profiles whose name matches the entered string will appear.
+   ![Screenshot 2023-12-07 at 3 21 49 PM](https://github.com/AbhayARao26/Portfolionaire/assets/125880738/324b7d4c-ce82-49c5-adbf-51504fa09335)
+   
 
-4. **Customize Layout**: Choose a layout that suits your style and preferences.
 
-5. **Preview and Publish**: Preview your portfolio before publishing it for the world to see.
+
+
+
 
 ## Contributing
 
-We welcome contributions! If you have any ideas, bug fixes, or improvements, please submit an issue or pull request. Check out our [contributing guidelines](CONTRIBUTING.md) for more details.
+We welcome contributions! If you have any ideas, bug fixes, or improvements, please submit an issue or pull request or reach out to us using the details given in the Contact Us Page!
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Thank you for choosing Portfolionaire! We hope you enjoy using it to showcase your amazing work. If you have any questions or feedback, feel free to reach out to us. Happy portfolio building!
+Thank you for choosing Portfolionaire! 

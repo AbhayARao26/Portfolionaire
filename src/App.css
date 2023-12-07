@@ -1,0 +1,320 @@
+html {
+  box-sizing: border-box;
+  margin: 0.1px;
+  padding: 0;
+  color: ivory;
+  background-image: url("./components/background1.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow-x: hidden;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  position: relative;
+  min-height: 100vh;
+  background-color: transparent;
+}
+
+div#about {
+  padding: 40px 20px;
+  background-color: transparent;
+  padding-top: 150px;
+}
+
+.headerMainPage {
+  background-color: transparent;
+  color: rgb(61, 255, 61);
+  text-align: center;
+  padding: 10px;
+  padding-bottom: 20px;
+  text-transform: uppercase;
+  font-size: 22px;
+}
+
+h1, h2, h3 {
+  background-color:transparent;
+  padding: 0;
+  border: 0;
+  color: rgb(61, 255, 61);;
+  margin-block-start: 8px;
+  margin-block-end: 8px;
+}
+
+.navbar {
+  display: flex;
+  height: 50px;
+  justify-content: space-between;
+  align-items: center;
+  background-color: transparent;
+  border: 0px solid ivory;
+  padding: 0.1px;
+}
+
+.navbar ul {
+  display: flex;
+  list-style: none;
+}
+
+.navbar li {
+  margin-right: 20px;
+  background-color: transparent;
+}
+
+.navbar li:last-child {
+  margin-right: 0;
+}
+
+.navbar a {
+  color: ivory;
+  text-decoration: none;
+  padding: 10px;
+  background-color: transparent;
+  border: 1px solid ivory;
+  border-radius: 5px;
+}
+
+.navbar a:hover {
+  background-color:transparent;
+  color: rgb(61, 255, 61);
+}
+
+.sub_button {
+  color: ivory;
+}
+
+.search {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+  padding-top: 0px;
+  color: ivory;
+}
+
+.search input[type="text"] {
+  padding: 10px;
+  border: 1px solid ivory;
+  border-radius: 5px;
+  width: 50%;
+  font-size: medium;
+  margin-right: 10px;
+  color: black;
+}
+
+.search input[type="submit"] {
+  background-color: ivory;
+  font-size: medium;
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.box {
+  background-color: transparent;
+  color: ivory;
+  text-align: center;
+  padding: 0.1px;
+  text-transform: uppercase;
+}
+
+a, li{
+  background-color: transparent;
+  color: ivory;
+}
+
+.footer {
+  background-color: transparent;
+  color: ivory;
+  text-align: center;
+  padding: 4px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  font-weight: bold;
+}
+
+.content {
+  background-color: transparent;
+  color: ivory;
+}
+
+#about {
+  padding: 40px 20px;
+  background-color: transparent;
+}
+
+.team-members {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  background-color: transparent;
+}
+
+.team-member {
+  width: 30%;
+  margin: 10px;
+  text-align: center;
+  background-color: transparent;
+}
+
+.team-member ul {
+  list-style: none; /* This removes the default list-style (dots) */
+  padding: 0; /* Remove default padding for the list */
+  margin: 0; /* Remove default margin for the list */
+}
+
+.team-member li {
+  margin-bottom: 0px; /* Optional: Add some spacing between list items */
+}
+
+.team-member li a {
+  text-decoration: none; /* Remove underline from links */
+  color: ivory; /* Optional: Set the color for links */
+  margin-right: 10px; /* Adjust the right margin as needed */
+}
+
+.buttonProfile {
+  background-color: transparent;
+  border: none;
+  text-decoration: none; /* Remove underline from the link */
+  font-weight: bold;
+}
+
+.buttonProfile span{
+  color: white;
+}
+
+.team-member img {
+  max-width: 50%;
+  height: auto;
+  border-radius: 50%;
+  background-color: transparent;
+}
+
+.icon {
+  max-width: 20px;
+  height: auto;
+  background-color: transparent;
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+  padding-bottom: 50px;
+}
+
+.portfolio-grid {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  height: 100vh;
+}
+
+.portfolio-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%; /* Set width to 100% of the container */
+  margin-bottom: 50px; /* Remove margin to prevent gaps between rows */
+}
+
+/* Style each portfolio item */
+.portfolio-item {
+  width: 20%; /* Set width to 25% of the container, ensuring four items per row */
+  height: 250px;
+  margin: 15px;
+  margin-bottom: 5px;
+  padding-bottom: 2px; /* Remove margin to prevent gaps between items */
+  text-align: center;
+  box-sizing: border-box; /* Ensure that width and height include padding and border */
+}
+
+/* Style the portfolio item image */
+.portfolio-item img {
+  width: 230px;
+  height: 230px;
+  border: 0px solid ivory;
+  border-radius: 100%;
+  background-color: transparent;
+}
+
+.username {
+  display: block;
+  text-align: center; /* Center the text below the image */
+  padding-bottom: 20px;
+}
+
+/* Style the portfolio item username */
+.portfolio-item span {
+  display: block;
+  font-size: 20px;
+  padding: 5px;
+  background-color: transparent;
+  height: 40px;
+  padding-bottom: 50px;
+}
+
+.username:hover {
+  color: aqua;
+}
+
+.navbar {
+  position: sticky;
+}
+
+.animated-intro-container {
+  background-color: transparent;
+  color: ivory;
+  text-align: center;
+  padding: 200px;
+  padding-top: 130px;
+  padding-bottom: 100px;
+  font-stretch: ultra-expanded;
+  font-size: 22px;
+  font-family: 'Franklin Gothic Medium', Arial, sans-serif;
+  line-height: 1.5;
+}
+
+.animated-intro-container span {
+  display: inline-block;
+}
+
+.name {
+  text-align: center;
+  padding-top: 50px;
+  color: ivory;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.image  {
+  height: 300px;
+  width: 300px;
+}
+
+.profile {
+  text-align: center;
+  font-size: larger;
+  color: rgb(52, 189, 52);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.research {
+  padding-bottom: 50px;
+}
+
+h2 {
+  color: white;
+}
+
+.profile-image {
+  padding-bottom: 10px;
+}

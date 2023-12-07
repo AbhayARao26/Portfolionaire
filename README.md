@@ -12,21 +12,8 @@ Welcome to Portfolionaire, a web application designed to help you manage and sho
 
 ## Introduction
 
-Portfolionaire is a user-friendly web app that allows you to create and manage your portfolio effortlessly. Whether you're an artist, designer, photographer, or any professional looking to showcase your work, Portfolionaire has got you covered. With a sleek and customizable design, you can make your portfolio truly reflect your personal brand.
+Portfolionaire is a user-friendly web app that the user to access the resumes of multiple students of a class in a single website.
 
-## Features
-
-- **Easy Setup**: Get started with Portfolionaire in minutes. Create an account, set up your profile, and start adding your projects.
-
-- **Customizable Layouts**: Choose from a variety of layout options to showcase your work in the way that best suits your style and content.
-
-- **Project Management**: Add, edit, and remove projects with ease. Include details, images, and links to make your projects stand out.
-
-- **Responsive Design**: Your portfolio will look great on any device, ensuring that your work is accessible to everyone.
-
-- **Contact Form**: Allow visitors to get in touch with you directly through a built-in contact form.
-
-- **Analytics Integration**: Track the performance of your portfolio with integrated analytics tools.
 
 ## Getting Started
 
@@ -35,9 +22,12 @@ To get started with Portfolionaire, follow these steps:
 1. Clone the repository: `git clone https://github.com/your-username/portfolionaire.git`
 2. Navigate to the project directory: `cd portfolionaire`
 3. Install dependencies: `npm install`
-4. Set up your environment variables by creating a `.env` file based on the provided `.env.example`.
-5. Run the application: `npm start`
-6. Visit `http://localhost:3000` in your browser to access Portfolionaire.
+4. Run the command: `node node.js`
+5. Create your database on MongoDB and paste the host link, database name and collection name in the 'node.js' file.
+   In order to make it easy for you, I have copy pasted the content of the database in the file 'data.js' which is directly linked to the page.
+   This is done so that while testing the app, you don't need to create a database and load data onto it.
+6. Run the application: `npm start`
+7. Visit `http://localhost:3000` in your browser to access Portfolionaire.
 
 ## Usage
 

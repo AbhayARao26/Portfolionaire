@@ -41,8 +41,12 @@ To get started with Portfolionaire, follow these steps:
    ![Screenshot 2023-12-07 at 3 21 49 PM](https://github.com/AbhayARao26/Portfolionaire/assets/125880738/324b7d4c-ce82-49c5-adbf-51504fa09335)
    
 
+3. **Contact Us Page**: In this page, I have the images, Emails, LinkedIn & GitHub profiles of the group that built this project. Click on the labels LinkedIn, GitHub & Email to directly go to the respective profile in another tab.
+   ![Screenshot 2023-12-08 at 2 08 26 PM](https://github.com/AbhayARao26/Portfolionaire/assets/125880738/1b5078a0-7b1b-4aa5-8283-f114a9e76319)
 
 
+4. **Your Portfolio Page**: I have used this page to show my profile only. This page can be used to show the profile of the person who is running the app.
+   ![Screenshot 2023-12-08 at 2 08 26 PM](https://github.com/AbhayARao26/Portfolionaire/assets/125880738/1b5078a0-7b1b-4aa5-8283-f114a9e76319)
 
 
 

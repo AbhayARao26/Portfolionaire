@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.04e278e4.css",
+    "main.js": "/static/js/main.683a84e3.js",
+    "static/js/453.21c60499.chunk.js": "/static/js/453.21c60499.chunk.js",
+    "static/media/background1.jpg": "/static/media/background1.c561e98c8b95e784d5a1.jpg",
+    "static/media/Ajay.jpg": "/static/media/Ajay.7529bde79b82e502b421.jpg",
+    "static/media/Ajay Rao.jpg": "/static/media/Ajay Rao.1e162137ee281930c8f5.jpg",
+    "static/media/Akilan E.jpg": "/static/media/Akilan E.7b85e4e869f060db2b73.jpg",
+    "static/media/Aadhya Darshan.jpeg": "/static/media/Aadhya Darshan.5832897757567445dbe4.jpeg",
+    "static/media/Akshay AS.jpeg": "/static/media/Akshay AS.70415bb137dc02160f09.jpeg",
+    "static/media/Abhirudh BN.jpg": "/static/media/Abhirudh BN.432da2cf3c929c250209.jpg",
+    "static/media/Abhay A Rao.jpg": "/static/media/Abhay A Rao.1b01a4d7be261f4b1224.jpg",
+    "static/media/Ajith S P.jpg": "/static/media/Ajith S P.88d8ac689da66704622b.jpg",
+    "index.html": "/index.html",
+    "main.04e278e4.css.map": "/static/css/main.04e278e4.css.map",
+    "main.683a84e3.js.map": "/static/js/main.683a84e3.js.map",
+    "453.21c60499.chunk.js.map": "/static/js/453.21c60499.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04e278e4.css",
+    "static/js/main.683a84e3.js"
+  ]
+}
